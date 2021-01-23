@@ -5,3 +5,16 @@
     font-weight: bold;
     margin: 50px auto;
 }
+
+.hello{
+    width: 70%;
+    margin: 100px 50px;
+
+}
+
+.hello_1st{
+    font-size: 20px;
+    color: #666666;
+    text-align: right;
+
+}
